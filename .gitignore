@@ -1,5 +1,25 @@
+dist/
+
 *.sublime-project
 *.sublime-workspace
 
 __pycache__/
-*.pyc
+
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
